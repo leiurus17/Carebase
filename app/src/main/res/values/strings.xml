@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Carebase</string>
+    <string name="file_local_cache">file_local_cache</string>
+</resources>
